@@ -1,6 +1,6 @@
-### Hi there 👋
-## My name is Syukri Hadi Kamil 😉
-## I live in Yogyakarta, Indonesia
+## Hi there 👋
+### My name is Syukri Hadi Kamil 😉
+#### I live in Yogyakarta, Indonesia
 
 I'm a broadcast engineer. 📺 📡
 
