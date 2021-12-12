@@ -3,7 +3,9 @@
 ## I live in Yogyakarta, Indonesia
 
 I'm a broadcast engineer. 📺 📡
+
 I want to be a backend developer/engineer and a data engineer.👨‍💻
+
 I'm currently taking courses to become one. 📖 �💪
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadi-learn)](https://github.com/anuraghazra/github-readme-stats)
