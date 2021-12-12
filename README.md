@@ -4,7 +4,7 @@
 
 I'm a broadcast engineer. 📺 📡
 
-I want to be a backend developer/engineer and a data engineer.👨‍💻
+I want to be a backend developer/engineer and/or a data engineer.👨‍💻
 
 I'm currently taking courses to become one. 📖 💪
 
