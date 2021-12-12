@@ -9,8 +9,7 @@ I want to be a backend developer/engineer and a data engineer.👨‍💻
 I'm currently taking courses to become one. 📖 �💪
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadi-learn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-learn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-learn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
