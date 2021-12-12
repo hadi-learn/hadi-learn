@@ -6,7 +6,7 @@ I'm a broadcast engineer. 📺 📡
 
 I want to be a backend developer/engineer and a data engineer.👨‍💻
 
-I'm currently taking courses to become one. 📖 �💪
+I'm currently taking courses to become one. 📖 💪
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-learn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
